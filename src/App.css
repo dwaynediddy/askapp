@@ -2,4 +2,17 @@
   text-align: center;
 }
 
-
+input[type="radio"] {
+  display: none;
+}
+.flex {
+  display: flex;
+}
+.cursor-pointer {
+  cursor: pointer;
+  
+}
+.star {
+  transition: color 200ms; 
+  cursor: pointer;
+}
