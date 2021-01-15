@@ -1,10 +1,10 @@
-import React, { useState } from 'react'
-import Rating from './Rating'
+import React from 'react'
+import StarRating from './Rating'
 
 const Review = () => {
     return (
         <div>
-            <Rating />
+            <StarRating />
         </div>
     )
 }
