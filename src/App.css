@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+.calander {
+  display: flex;
+  padding: 1.5em;
+}
 input[type="radio"] {
   display: none;
 }
